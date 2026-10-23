@@ -1,0 +1,6 @@
+{
+  "name": "NexusML Pipeline Platform",
+  "description": "Enterprise MLOps platform for training start pipelines, CVAT dataset orchestration, Kubeflow training task tracking, MLflow metrics and RBAC management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
